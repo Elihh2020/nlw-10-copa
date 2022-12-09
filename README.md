@@ -1,4 +1,4 @@
-<h1 align="center"> nlw-copa </h1>
+<h1 align="center"> Nlw #10 Copa </h1>
 
 <p align="center">
 Evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologias WEB.
